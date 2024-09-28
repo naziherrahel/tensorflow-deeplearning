@@ -20,7 +20,7 @@ class_names = ["apple_pie", "baby_back_ribs", "baklava", "beef_carpaccio", "beef
                "tacos", "takoyaki", "tiramisu", "tuna_tartare", "waffles"]
 
 # Load the fine-tuned EfficientNetB0 model
-model = tf.keras.models.load_model('https://github.com/naziherrahel/tensorflow-deeplearning/blob/main/streamlit/model_1.keras')
+model = tf.keras.models.load_model('https://raw.githubusercontent.com/naziherrahel/tensorflow-deeplearning/main/streamlit/model_1.keras')
 
 # Function to preprocess input image
 def prepare_image(img):
