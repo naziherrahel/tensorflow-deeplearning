@@ -1,0 +1,13 @@
+first check if you have a requirement.txt file, if not create one
+and write the name of the libraries.
+
+libraries:
+tesnorflow
+numpy 
+pillow
+streamlit
+
+next move :
+
+open the terminal and type this cmd => pip install -r requirement.txt
+
