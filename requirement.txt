@@ -1,0 +1,4 @@
+tesnorflow
+numpy 
+pillow
+streamlit
